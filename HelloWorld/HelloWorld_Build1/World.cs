@@ -14,7 +14,7 @@ namespace HelloWorld_Build1
         {
            
             get {
-                _hello = "Hello World";
+                _hello = "Hello World 2";
                 return _hello; }
             
         }
